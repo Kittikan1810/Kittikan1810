@@ -1,3 +1,3 @@
 Kittikan Subkhum
-Information Technology
-nstitute of Vocational Education : Central Region 5
+ -Information Technology
+ -nstitute of Vocational Education : Central Region 5
