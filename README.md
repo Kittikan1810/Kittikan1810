@@ -1,3 +1,3 @@
 Kittikan Subkhum
 Information Technology
-Samut Sakhon Technical College
+nstitute of Vocational Education : Central Region 5
