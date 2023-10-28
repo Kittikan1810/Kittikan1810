@@ -8,4 +8,4 @@
 <!-- Include the theme config -->
 <!-- For YAML -->
 ```yaml
-theme: MyTheme
+
