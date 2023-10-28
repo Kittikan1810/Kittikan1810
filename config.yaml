@@ -1,7 +1,37 @@
-# theme-config.yaml
+# Kittikan Subkhum
 
-theme:
-  name: "MyTheme"
-  font-size: 16px
-  background-color: "#ffffff"
-  text-color: "#333333"
+<!-- Image -->
+![Image](https://github.com/Mon5te2/Mon5te2.github.io/assets/135462462/30cf7b49-aae9-4b11-a0c2-bc605ff9c1bc)
+
+<!-- Information -->
++ **Field of Study:** Information Technology
++ **Institution:** Institute of Vocational Education - Central Region 5
+
+<!-- Add CSS for Styling -->
+<style>
+/* Styling the Page */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+
+
+/* Border around Information */
+ul {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+
+
+/* Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #999;
+  border-radius: 5px;
+
+</style>
