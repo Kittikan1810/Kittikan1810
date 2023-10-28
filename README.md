@@ -5,7 +5,6 @@
 + Field of Study: Information Technology
 + Institution: Institute of Vocational Education - Central Region 5
 
-<!-- Include the theme config -->
-<!-- For YAML -->
-```yaml
+
+
 
