@@ -24,7 +24,7 @@ http://www.kateep.com
 Decryption is a cryptographic primitive: it transforms a ciphertext message into plaintext using a cryptographic algorithm called a cipher. Like encryption, decryption in modern ciphers is performed using a specific algorithm and a secret, called the key. Since the algorithm is often public, the key must stay secret if the encryption stays secure.
 
 
-![](img/decryption.png)
+![Image](img/decryption.png)
 
 Decryption is the reverse of encryption and if the key stays secret, decryption without knowing the specific secret, decryption is mathematically hard to perform. How hard depends on the security of the cryptographic algorithm chosen and evolves with the progress of cryptanalysis.
 
