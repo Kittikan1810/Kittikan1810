@@ -32,7 +32,7 @@ IETF suggests MD5 hashing can still be used for integrity protection, noting: "W
 
 
 
------ รูป--------------
+![](img/Md5.jpg)
 
 
 
