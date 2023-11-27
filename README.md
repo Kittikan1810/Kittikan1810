@@ -4,6 +4,6 @@
 + Field of Study: Information Technology
 + Institution: Institute of Vocational Education - Central Region 5
 + [My Link](HelloWorld)
-+ [My Link](Decrytion)
-+ [My Link](MD5)
-+ [My Link](Hybrid_encrytion)
++ [Decrytion](Decrytion)
++ [MD5](MD5)
++ [Hybrid_encrytion](Hybrid_encrytion)
