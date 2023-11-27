@@ -65,3 +65,6 @@ Secure Hash Algorithm 1 (SHA-1). Developed by the U.S. government in the 1990s, 
 The SHA-2 hash code family. The more secure successor to SHA-1 and one that is widely used today is the SHA-2 family of hash codes. SHA-2 hash codes were created by the U.S. National Security Agency in 2001. They represent a significant departure from SHA-1 in that the SHA-2 message-digest algorithms were longer and harder to break. The SHA-2 family of algorithms delivers hash values that are 224, 256, 384 and 512 bits in length. They are known by the names of their message-digest lengths -- for example, SHA-224 and SHA-256.
 
 Cyclic redundancy check (CRC) codes. CRC codes are often suggested as possible substitutions for MD5 because both MD5 and CRC perform hashing functions, and both deliver checksums. But the similarity ends there. A 32-bit CRC code is used to detect errors during data transmissions so corrupted or lost data can be identified. Meanwhile, MD5 is a secure hash algorithm and a cryptographic hash function that can detect some data corruption but is primarily intended for the secure encryption of data that is being transmitted and the verification of digital certificates.
+
+
+https://www.techtarget.com/searchsecurity/definition/MD5#:~:text=The%20MD5%20(message%2Ddigest%20algorithm,for%20authenticating%20the%20original%20message.
