@@ -15,6 +15,6 @@
   - [Introduction to Cybersecurity](cert/Introduction-to-Dark-Web-Operations.pdf)
 
 ## Vocabuary
-  - [Decryption](Decryption)
-  - [MD5](MD5)
-  - [Hybrid_encryption](Hybrid_encryption)
+  + [Decryption](Decryption)
+  + [MD5](MD5)
+  + [Hybrid_encryption](Hybrid_encryption)
